@@ -13,3 +13,4 @@ appear as red informational checks and Slack alerts; they never block merges.
 This file is a vendored copy synced from
 `Astera-org/github-workflows/vendored/secret-scan-diffuse.yml`. Edit it there
 first, then copy it here.
+
