@@ -1,6 +1,6 @@
 # github-workflows
 
-Org-wide CI workflows for diff-use, applied to every repo via an organization
+Org-wide CI workflows for prism-science, applied to every repo via an organization
 ruleset (no per-repo setup).
 
 ## secret-scan
